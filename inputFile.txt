@@ -1,0 +1,10 @@
+Manager;Alfamart;Agus Setiawan;5000;40;25;2500;10000;
+SalesAssociate;Indomaret;Siti Rahayu;30000;35;20;5;
+InventorySpecialist;Circle K;Budi Prasetyo;3500;38;22;565;75;
+InventorySpecialist;Lawson;Dewi Suryani;3500;38;22;750;100;
+Manager;Minimarket;Fitri Wulandari;5000;40;25;2500;1000;
+SalesAssociate;Superindo;Hendra Permana;30000;35;20;50;
+Manager;Giant;Anita Susanti;5000;40;25;2500;10000;
+SalesAssociate;Transmart;Rini Utami;30000;35;20;50;
+Manager;Lotte Mart;Rudi Santoso;5000;40;25;2500;10000;
+InventorySpecialist;Hypermart;Maman Racing;3500;38;22;500;45;

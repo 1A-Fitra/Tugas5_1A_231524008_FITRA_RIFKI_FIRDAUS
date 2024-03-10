@@ -1,0 +1,104 @@
+******************************************************
+Number of employees working as MANAGER are: 4
+******************************************************
+1. Manager Details:
+Store Details: Alfamart
+Employee Name: Agus Setiawan
+Base Pay: $5000.0
+Number of Hours worked: 40.0hrs
+Payment Rate per hour: $25.0/hr
+Total Sales in store: $10000.0
+Sales done: $2500.0
+Percentage of sales done: 25.00%
+Gross Payment: $6060.0
+Remaining store revenue: $2514.6
+2. Manager Details:
+Store Details: Minimarket
+Employee Name: Fitri Wulandari
+Base Pay: $5000.0
+Number of Hours worked: 40.0hrs
+Payment Rate per hour: $25.0/hr
+Total Sales in store: $1000.0
+Sales done: $2500.0
+Percentage of sales done: 250.00%
+Gross Payment: $6060.0
+Remaining store revenue: $-5148.0
+3. Manager Details:
+Store Details: Giant
+Employee Name: Anita Susanti
+Base Pay: $5000.0
+Number of Hours worked: 40.0hrs
+Payment Rate per hour: $25.0/hr
+Total Sales in store: $10000.0
+Sales done: $2500.0
+Percentage of sales done: 25.00%
+Gross Payment: $6060.0
+Remaining store revenue: $2514.6
+4. Manager Details:
+Store Details: Lotte Mart
+Employee Name: Rudi Santoso
+Base Pay: $5000.0
+Number of Hours worked: 40.0hrs
+Payment Rate per hour: $25.0/hr
+Total Sales in store: $10000.0
+Sales done: $2500.0
+Percentage of sales done: 25.00%
+Gross Payment: $6060.0
+Remaining store revenue: $2514.6
+******************************************************
+Number of employees working as SALES ASSOCIATES are: 3
+******************************************************
+Store Details: Indomaret
+Employee Name: Siti Rahayu
+Base Pay: $30000.0
+Number of Hours worked: 35.0hrs
+Payment Rate per hour: $20.0/hr
+Sales Rate: 500.0%
+Total commission: $3000.0
+Gross Payment: $33700.0
+Store Details: Superindo
+Employee Name: Hendra Permana
+Base Pay: $30000.0
+Number of Hours worked: 35.0hrs
+Payment Rate per hour: $20.0/hr
+Sales Rate: 5000.0%
+Total commission: $3000.0
+Gross Payment: $33700.0
+Store Details: Transmart
+Employee Name: Rini Utami
+Base Pay: $30000.0
+Number of Hours worked: 35.0hrs
+Payment Rate per hour: $20.0/hr
+Sales Rate: 5000.0%
+Total commission: $3000.0
+Gross Payment: $33700.0
+******************************************************
+Number of employees working as INVENTORY CONTROL are: 3
+******************************************************
+Store Details: Circle K
+Employee Name: Budi Prasetyo
+Base Pay: $3500.0
+Number of Hours worked: 38.0hrs
+Payment Rate per hour: $22.0/hr
+Item Shipped In: 565
+Item Loss: 75
+Total comission: $0.0
+Gross Payment: $4336.0
+Store Details: Lawson
+Employee Name: Dewi Suryani
+Base Pay: $3500.0
+Number of Hours worked: 38.0hrs
+Payment Rate per hour: $22.0/hr
+Item Shipped In: 750
+Item Loss: 100
+Total comission: $0.0
+Gross Payment: $4336.0
+Store Details: Hypermart
+Employee Name: Maman Racing
+Base Pay: $3500.0
+Number of Hours worked: 38.0hrs
+Payment Rate per hour: $22.0/hr
+Item Shipped In: 500
+Item Loss: 45
+Total comission: $0.0
+Gross Payment: $4336.0
